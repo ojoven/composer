@@ -1,0 +1,12 @@
+{
+    "name": "ojoven/testcomposer",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ojoven/composer"
+        }
+    ],
+    "require": {
+        "ojoven/composer": "dev-master"
+    }
+}
